@@ -1,6 +1,6 @@
 # ✨skinbeauty.com✨
 
-This is a web based application developed for health related telugu based website in india
+This is a web based application developed for skin & beauty related based website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -38,9 +38,6 @@ This is a web based application developed for health related telugu based websit
 ### help & support -
 
 ![Screenshot 2023-06-26 000928](https://github.com/subhanikhanpathan/skinbeauty.com/assets/93383338/ef9eeb10-ff45-4e4c-8ec3-39929dd301e3)
-
-
-
 
 
 ## Tech Stack 💻

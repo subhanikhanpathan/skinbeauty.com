@@ -6,7 +6,7 @@ This is a web based application developed for skin & beauty related based websit
 
 
 **Project Link** - https://witty-sea-036daf500.3.azurestaticapps.net/
-**Project demo** -
+**Project demo** -https://youtu.be/LjZMymq7DwQ
 
 ## Features and Functionalities 😃
 
